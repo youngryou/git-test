@@ -15,17 +15,23 @@ sdfsdf
 dfsdfI learned by doing and experimenting. I already knew some parts, but being able to lock hover styles in DevTools was great for me. My main issue was time; trying to keep up with a 50 min video while testing things out myself took much longer than I thought.
 
 
-## Sprint 2 Reflection
+
+# My Reflections — Sprint 2
 
   ---
 
-  ### DevTools Tutorial
+  ## DevTools Tutorial
 
-  1. What did you notice about your learning style, strengths, and limitations when doing this crash course?
+  What did you notice about your learning style, strengths, and limitations when doing this crash course?
 
   - I learned by doing and experimenting. I already knew some parts, but being able to lock hover styles in DevTools was great for me. My main issue was time; trying to keep up with a 50 min video while testing things out myself took much longer than I thought.
 
 
-  2. What blocks came up for you? How did you overcome them?
+  What blocks came up for you? How did you overcome them?
 
-  I struggled with following a long video and doing the tasks at the same time. I had to keep rewinding, so it took hours. Next time, I’ll watch small parts and pause to practice so I can save time.
+  > I struggled with following a long video and doing the tasks at the same time. I had to keep rewinding, so it took hours. Next time, I’ll watch small parts and pause to practice so I can save time.
+
+
+  Did you do something fun with DevTools — like insert your own name into a website? If not, try it now.
+
+  I hadn't tried it before, so I gave it a go after reading this. I went to Google and changed the search button text to my name and *Yahoo*.
